@@ -1,0 +1,2 @@
+def iseven(a):
+	return not(bool(a%2))
